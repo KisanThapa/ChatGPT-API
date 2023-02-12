@@ -1,0 +1,22 @@
+Sample response from https://api.openai.com/v1/completions for the following prompt:
+What is the capital of the United States?
+
+{ 
+  'id': 'cmpl-6iQwBOGYQ1W3Sk4k4fXpJ69pHBnnX',
+  'object': 'text_completion',
+   'created': 1676047999,
+    'model': 'text-davinci-003',
+     'choices': [
+      {
+        'text': '\nWashington, D.C.',
+        'index': 0,
+        'logprobs': None, 
+        'finish_reason': 'stop'
+      }
+    ], 
+  'usage': {
+    'prompt_tokens': 10, 
+    'completion_tokens': 7, 
+    'total_tokens': 17
+  }
+}

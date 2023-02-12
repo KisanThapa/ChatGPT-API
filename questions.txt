@@ -1,0 +1,5 @@
+What is the capital of the United States?
+Who is the first president of the United States?
+Transverse waves can propagate: (a) Both in a gas and in a metal (b) In a gas but not in a metal (c) Not in a gas but in a metal (d) Neither in a gas nor in a metal
+Which of the following pairs of physical quantities have the same dimensions: (a) momentum and impulse (b) linear velocity and angular velocity (c) linear momentum and angular momentum (d) tension and surface tension
+How to send get request in python?

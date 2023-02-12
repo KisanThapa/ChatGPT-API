@@ -1,0 +1,65 @@
+Q. What is the capital of the United States?
+A. {
+    "error": {
+        "message": "Incorrect API key provided: YOUR_API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+
+
+----------------------------------
+
+Q. Who is the first president of the United States?
+A. {
+    "error": {
+        "message": "Incorrect API key provided: YOUR_API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+
+
+----------------------------------
+
+Q. Transverse waves can propagate: (a) Both in a gas and in a metal (b) In a gas but not in a metal (c) Not in a gas but in a metal (d) Neither in a gas nor in a metal
+A. {
+    "error": {
+        "message": "Internal server error",
+        "type": "auth_subrequest_error",
+        "param": null,
+        "code": "internal_error"
+    }
+}
+
+
+----------------------------------
+
+Q. Which of the following pairs of physical quantities have the same dimensions: (a) momentum and impulse (b) linear velocity and angular velocity (c) linear momentum and angular momentum (d) tension and surface tension
+A. {
+    "error": {
+        "message": "Incorrect API key provided: YOUR_API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+
+
+----------------------------------
+
+Q. How to send get request in python?
+A. {
+    "error": {
+        "message": "Incorrect API key provided: YOUR_API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.",
+        "type": "invalid_request_error",
+        "param": null,
+        "code": "invalid_api_key"
+    }
+}
+
+
+----------------------------------
+
