@@ -65,7 +65,7 @@ This project is licensed under the MIT License.
 ## Contact
 If you have any questions, feel free to contact me at
 - [Email](mailto:kisanthapa33@gmail.com)
-- LinkedIn: [Kisan Thapa](https://www.linkedin.com/in/kisan-thapa-5b4b6b1a3/)
+- LinkedIn: [Kisan Thapa](https://www.linkedin.com/in/kisan-thapa-860865113/)
 
 
 ## If you like this repository, please give it a star ⭐
